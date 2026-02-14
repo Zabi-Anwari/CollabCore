@@ -93,7 +93,3 @@ npm run preview      # serves dist/ locally (still needs server.js running)
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Questions or ideas? Open an issue or start a discussion in your GitHub repo once published.
