@@ -33,7 +33,7 @@ This project is a browser-based collaborative editor built with React + Vite. Cl
 ### Installation & Local Development
 
 ```bash
-git clone <your-fork-or-repo-url>
+git clone https://github.com/Zabi-Anwari/CollabCore.git
 cd collab
 npm install
 
@@ -92,7 +92,7 @@ npm run preview      # serves dist/ locally (still needs server.js running)
 
 ## 📄 License
 
-Add your preferred license (MIT, Apache 2.0, etc.) if you intend to open-source the repo.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 

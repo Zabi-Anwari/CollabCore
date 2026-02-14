@@ -1,5 +1,5 @@
 {
-  "name": "CollabSync: CRDT Editor",
-  "description": "A high-performance real-time collaborative text editor using Yjs CRDTs and WebSockets for seamless multi-user editing.",
+  "name": "CollabCore",
+  "description": "A real-time collaborative text editor powered by a custom LSEQ CRDT and WebSocket sync.",
   "requestFramePermissions": []
 }
